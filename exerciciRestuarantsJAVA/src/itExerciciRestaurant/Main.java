@@ -91,13 +91,13 @@ public class Main {
 			} 
 		} while (price > 0);
 		
-		System.out.println("I l'haurà de pagar amb els següents bitllets : "	+ b500 + " billtet/s de 500€, "
-																				+ b200 + " billtet/s de 200€, "
-																				+ b100 + " billtet/s de 100€, "
-																				+ b50 + " billtet/s de 50€, "
-																				+ b20 + " billtet/s de 20€, "
-																				+ b10 + " billtet/s de 10€, "
-																				+ b5 + " billtet/s de 5€, ");
+		System.out.println("I l'haurà de pagar amb els següents bitllets : "	+ b500 + " bitllet/s de 500€, "
+																				+ b200 + " bitllet/s de 200€, "
+																				+ b100 + " bitllet/s de 100€, "
+																				+ b50 + " bitllet/s de 50€, "
+																				+ b20 + " bitllet/s de 20€, "
+																				+ b10 + " bitllet/s de 10€, "
+																				+ b5 + " bitllet/s de 5€, ");
 	}
 
 }
